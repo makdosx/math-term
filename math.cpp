@@ -1,4 +1,4 @@
-
+/*
  * Copyright (c) 2015 Barchampas Gerasimos </makindosx@gmail.com>
  * math-term is a terminal for mathematical operations .
  *
