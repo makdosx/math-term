@@ -2,7 +2,7 @@
  * Copyright (c) 2015 Barchampas Gerasimos </makindosx@gmail.com>
  * math-terminal is a program formathematical operations .
  *
- * Anon-chat is free software: you can redistribute it and/or modify
+ * math-terminal is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as
  * published by the Free Software Foundation, either version 3 of the
  * License, or (at your option) any later version.
