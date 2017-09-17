@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2015 Barchampas Gerasimos </makindosx@gmail.com>
- * math-terminal is a program formathematical operations .
+ * math-terminal is a program for mathematical operations .
  *
  * math-terminal is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as
